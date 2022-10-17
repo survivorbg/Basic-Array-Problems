@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Conc_two_arrays_in_one___first___normal_order__second___reversed_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
