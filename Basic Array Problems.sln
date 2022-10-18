@@ -3,27 +3,45 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symmetry", "Symmetry\Symmetry.csproj", "{2D3238BE-B048-4821-8D6F-742A26FCEC6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Symmetry", "Symmetry\Symmetry.csproj", "{2D3238BE-B048-4821-8D6F-742A26FCEC6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2x2 submatrix", "2x2 submatrix\2x2 submatrix.csproj", "{C6DD906F-3696-4F8D-8521-94EBC3643283}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2x2 submatrix", "2x2 submatrix\2x2 submatrix.csproj", "{C6DD906F-3696-4F8D-8521-94EBC3643283}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3x3 submatrix", "3x3 submatrix\3x3 submatrix.csproj", "{0F24A4F4-A292-4365-9AD5-76B0A099B90B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3x3 submatrix", "3x3 submatrix\3x3 submatrix.csproj", "{0F24A4F4-A292-4365-9AD5-76B0A099B90B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed Array (from console)", "Reversed Array (from console)\Reversed Array (from console).csproj", "{537A71BB-A270-4463-A2BF-14AD7A9ECE2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversed Array (from console)", "Reversed Array (from console)\Reversed Array (from console).csproj", "{537A71BB-A270-4463-A2BF-14AD7A9ECE2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Element from the array with the biggest diff with the array average", "Element from the array with the biggest diff with the array average\Element from the array with the biggest diff with the array average.csproj", "{6257E642-9B32-4D24-90F6-B3BE328A9B8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Element from the array with the biggest diff with the array average", "Element from the array with the biggest diff with the array average\Element from the array with the biggest diff with the array average.csproj", "{6257E642-9B32-4D24-90F6-B3BE328A9B8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One index to the left", "One index to the left\One index to the left.csproj", "{31FF5416-0220-4153-BD71-34C0E9C6EF43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One index to the left", "One index to the left\One index to the left.csproj", "{31FF5416-0220-4153-BD71-34C0E9C6EF43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checks if two arrays are the same", "Checks if two arrays are the same\Checks if two arrays are the same.csproj", "{A76D437C-A6DD-4DF3-A182-FECE6BC39C97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checks if two arrays are the same", "Checks if two arrays are the same\Checks if two arrays are the same.csproj", "{A76D437C-A6DD-4DF3-A182-FECE6BC39C97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sooner in lexicographical sense", "Sooner in lexicographical sense\Sooner in lexicographical sense.csproj", "{13B37C42-CAFC-4C44-B94E-D910293AD1C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sooner in lexicographical sense", "Sooner in lexicographical sense\Sooner in lexicographical sense.csproj", "{13B37C42-CAFC-4C44-B94E-D910293AD1C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second biggest element in array", "Second biggest element in array\Second biggest element in array.csproj", "{2B5996EB-584D-4793-8B4F-D4DA00C7607F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Second biggest element in array", "Second biggest element in array\Second biggest element in array.csproj", "{2B5996EB-584D-4793-8B4F-D4DA00C7607F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of two adjacent elements", "Sum of two adjacent elements\Sum of two adjacent elements.csproj", "{EF29F307-E9D5-44D0-A02D-FE980314BD7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of two adjacent elements", "Sum of two adjacent elements\Sum of two adjacent elements.csproj", "{EF29F307-E9D5-44D0-A02D-FE980314BD7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conc two arrays in one ( first - normal order, second - reversed)", "Conc two arrays in one ( first - normal order, second - reversed)\Conc two arrays in one ( first - normal order, second - reversed).csproj", "{56A67AEB-4E89-4A67-8C55-5EFA6A5311F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conc two arrays in one ( first - normal order, second - reversed)", "Conc two arrays in one ( first - normal order, second - reversed)\Conc two arrays in one ( first - normal order, second - reversed).csproj", "{56A67AEB-4E89-4A67-8C55-5EFA6A5311F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All prime numbers in range [0 n]", "All prime numbers in range [0 n]\All prime numbers in range [0 n].csproj", "{64F07500-7340-41F5-9189-A521348D0F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Last K Numbers Sums", "Last K Numbers Sums\Last K Numbers Sums.csproj", "{9D976015-3CED-4262-B05D-DC75E940A00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum,Min,Max,First,Last,Average", "Sum,Min,Max,First,Last,Average\Sum,Min,Max,First,Last,Average.csproj", "{A9AA9904-F081-4CCA-9A35-62FBD76451EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reading Array Values from a Single Line", "Reading Array Values from a Single Line\Reading Array Values from a Single Line.csproj", "{5E369F06-5FE1-4205-8A0D-74D42B05AA7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triple Sum (a + b == c)", "Triple Sum (a + b == c)\Triple Sum (a + b == c).csproj", "{F1D8567D-3213-493F-B7F1-26A05316434C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rounding Numbers", "Rounding Numbers\Rounding Numbers.csproj", "{C22156DF-2910-49A9-B1EA-A212C1FB8A83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training", "Training\Training.csproj", "{67636386-995F-4428-A1FB-725879DC8F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed Array(3 ways)", "Reversed Array(3 ways)\Reversed Array(3 ways).csproj", "{50752D7D-D7C3-47A2-83D5-F949B01C0491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest Coomon End", "Largest Coomon End\Largest Coomon End.csproj", "{E1BA4F0A-E2B9-4F26-AA1B-C4AF3A8F4CA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +93,42 @@ Global
 		{56A67AEB-4E89-4A67-8C55-5EFA6A5311F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A67AEB-4E89-4A67-8C55-5EFA6A5311F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A67AEB-4E89-4A67-8C55-5EFA6A5311F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F07500-7340-41F5-9189-A521348D0F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F07500-7340-41F5-9189-A521348D0F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F07500-7340-41F5-9189-A521348D0F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F07500-7340-41F5-9189-A521348D0F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D976015-3CED-4262-B05D-DC75E940A00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D976015-3CED-4262-B05D-DC75E940A00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D976015-3CED-4262-B05D-DC75E940A00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D976015-3CED-4262-B05D-DC75E940A00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AA9904-F081-4CCA-9A35-62FBD76451EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AA9904-F081-4CCA-9A35-62FBD76451EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AA9904-F081-4CCA-9A35-62FBD76451EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AA9904-F081-4CCA-9A35-62FBD76451EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E369F06-5FE1-4205-8A0D-74D42B05AA7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E369F06-5FE1-4205-8A0D-74D42B05AA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E369F06-5FE1-4205-8A0D-74D42B05AA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E369F06-5FE1-4205-8A0D-74D42B05AA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D8567D-3213-493F-B7F1-26A05316434C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D8567D-3213-493F-B7F1-26A05316434C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D8567D-3213-493F-B7F1-26A05316434C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D8567D-3213-493F-B7F1-26A05316434C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C22156DF-2910-49A9-B1EA-A212C1FB8A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22156DF-2910-49A9-B1EA-A212C1FB8A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22156DF-2910-49A9-B1EA-A212C1FB8A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22156DF-2910-49A9-B1EA-A212C1FB8A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67636386-995F-4428-A1FB-725879DC8F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67636386-995F-4428-A1FB-725879DC8F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67636386-995F-4428-A1FB-725879DC8F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67636386-995F-4428-A1FB-725879DC8F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50752D7D-D7C3-47A2-83D5-F949B01C0491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50752D7D-D7C3-47A2-83D5-F949B01C0491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50752D7D-D7C3-47A2-83D5-F949B01C0491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50752D7D-D7C3-47A2-83D5-F949B01C0491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1BA4F0A-E2B9-4F26-AA1B-C4AF3A8F4CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BA4F0A-E2B9-4F26-AA1B-C4AF3A8F4CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BA4F0A-E2B9-4F26-AA1B-C4AF3A8F4CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BA4F0A-E2B9-4F26-AA1B-C4AF3A8F4CA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
